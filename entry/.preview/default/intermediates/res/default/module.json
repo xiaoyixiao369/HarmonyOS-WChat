@@ -1,0 +1,68 @@
+{
+    "app" : 
+    {
+        "apiReleaseType" : "Release",
+        "bundleName" : "com.example.wechat",
+        "debug" : true,
+        "icon" : "$media:app_icon",
+        "iconId" : 16777216,
+        "label" : "$string:app_name",
+        "labelId" : 16777217,
+        "minAPIVersion" : 9,
+        "targetAPIVersion" : 9,
+        "vendor" : "example",
+        "versionCode" : 1000000,
+        "versionName" : "1.0.0"
+    },
+    "module" : 
+    {
+        "abilities" : 
+        [
+            {
+                "description" : "$string:EntryAbility_desc",
+                "descriptionId" : 16777228,
+                "exported" : true,
+                "icon" : "$media:icon",
+                "iconId" : 16777235,
+                "label" : "$string:EntryAbility_label",
+                "labelId" : 16777229,
+                "name" : "EntryAbility",
+                "skills" : 
+                [
+                    {
+                        "actions" : 
+                        [
+                            "action.system.home"
+                        ],
+                        "entities" : 
+                        [
+                            "entity.system.home"
+                        ]
+                    }
+                ],
+                "srcEntry" : "./ets/entryability/EntryAbility.ts",
+                "startWindowBackground" : "$color:start_window_background",
+                "startWindowBackgroundId" : 16777221,
+                "startWindowIcon" : "$media:icon",
+                "startWindowIconId" : 16777235
+            }
+        ],
+        "compileMode" : "esmodule",
+        "deliveryWithInstall" : true,
+        "dependencies" : [],
+        "description" : "$string:module_desc",
+        "descriptionId" : 16777230,
+        "deviceTypes" : 
+        [
+            "phone",
+            "tablet"
+        ],
+        "installationFree" : false,
+        "mainElement" : "EntryAbility",
+        "name" : "entry",
+        "pages" : "$profile:main_pages",
+        "requestPermissions" : [],
+        "type" : "entry",
+        "virtualMachine" : "ark9.0.0.0"
+    }
+}

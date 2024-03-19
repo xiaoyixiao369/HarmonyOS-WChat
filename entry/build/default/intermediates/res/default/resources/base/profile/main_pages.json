@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Register",
+    "pages/Main",
+    "pages/Contact"
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "runtimeOS": "HarmonyOS",
+  "sdkInfo": "false:9:3.2.12.5:Release",
+  "fileList": {
+    "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\entryability\\EntryAbility.ts": {
+      "mtimeMs": 1710473049688.6812,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\pages\\Index.ets": {
+      "mtimeMs": 1710515887243.0295,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\pages\\Register.ets": {
+      "mtimeMs": 1710498112351.3862,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.UIAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.Ability.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.Configuration.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\application\\UIAbilityContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\bundleManager\\AbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\bundleManager\\ApplicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.bundle.bundleManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\bundleManager\\BundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\bundleManager\\HapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\bundleManager\\ExtensionAbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\ability\\abilityResult.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\ability\\connectOptions.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.rpc.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\application\\Context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.resourceManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\application\\ApplicationContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.AbilityLifecycleCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.window.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.multimedia.image.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.EnvironmentCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.app.ability.dialogRequest.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.router.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.file.picker.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\canvas.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\component\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\web.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\api\\@ohos.web.webview.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\Dev\\huawei\\HarmonyOSSDK\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\matrix2d.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\pages\\Main.ets": {
+      "mtimeMs": 1710651769490.6033,
+      "children": [
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\components\\WeChat.ets",
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\pages\\Contact.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\components\\WeChat.ets": {
+      "mtimeMs": 1710644696129.2473,
+      "children": [
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\viewmodel\\Message.ets",
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\components\\NavTitle.ets"
+      ],
+      "parent": [
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\pages\\Main.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\viewmodel\\Message.ets": {
+      "mtimeMs": 1710512855369.7048,
+      "children": [],
+      "parent": [
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\components\\WeChat.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\components\\NavTitle.ets": {
+      "mtimeMs": 1710514262907.3086,
+      "children": [],
+      "parent": [
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\components\\WeChat.ets",
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\pages\\Contact.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\pages\\Contact.ets": {
+      "mtimeMs": 1710651764906.7495,
+      "children": [
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\components\\ContactGroup.ets",
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\components\\NavTitle.ets",
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\viewmodel\\ContactModel.ets"
+      ],
+      "parent": [
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\pages\\Main.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\components\\ContactGroup.ets": {
+      "mtimeMs": 1710647258176.16,
+      "children": [
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\viewmodel\\ContactModel.ets"
+      ],
+      "parent": [
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\pages\\Contact.ets"
+      ],
+      "error": false
+    },
+    "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\viewmodel\\ContactModel.ets": {
+      "mtimeMs": 1710647242921.9443,
+      "children": [],
+      "parent": [
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\pages\\Contact.ets",
+        "C:\\Users\\XiaoYiXiao\\DevEcoStudioProjects\\WeChat\\entry\\src\\main\\ets\\components\\ContactGroup.ets"
+      ],
+      "error": false
+    }
+  }
+}
